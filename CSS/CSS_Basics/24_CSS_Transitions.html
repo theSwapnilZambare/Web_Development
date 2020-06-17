@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CSS 3 Transitions</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="bootstrap/css/font-awesome.min.css">
+    <style>
+        body{
+            font-family: "Comic Sans MS", sans-serif;
+        }
+        div{
+            height: 100px;
+            width: 100px;
+            background-color: orangered;
+            border-radius: 10px;
+        }
+        .t_width{
+            transition: width 2s;
+        }
+        .t_width:hover{
+            width: 200px;
+        }
+        .t_height{
+            transition: height 2s;
+        }
+        .t_height:hover{
+            height: 200px;
+        }
+        .t_both{
+            transition: all 2s;
+        }
+        .t_both:hover{
+            height: 200px;
+            width: 200px;
+        }
+        .t_rotate{
+            transition: all 2s;
+        }
+        .t_rotate:hover{
+            width: 200px;
+            transform: rotate(180deg);
+        }
+        .t_timing{
+            transition: width 4s;
+            transition-timing-function: ease-in-out;
+        }
+        .t_timing:hover{
+            width: 400px;
+        }
+        /* zoom effect */
+        .zoom{
+            width: 400px;
+            height: auto;
+            margin-left: 50px;
+            overflow: hidden; /* mandatory */
+            border-radius: 10px;
+        }
+        .zoom img{
+            max-height: 100%;
+            max-width: 100%;
+            transition: all 1s;
+            opacity: 0.8; /* shade on image */
+        }
+        .zoom:hover img{
+            transform: scale(1.2,1.2);
+            cursor: pointer;
+            opacity: 1.0; /* clear Image */
+        }
+    </style>
+</head>
+<body>
+<!-- Zoom Effect -->
+<h2>Zoom Effect</h2>
+<section class="zoom">
+    <img src="img/image5.jpeg">
+</section>
+<!-- Transition Width -->
+<h2>Transition Width</h2>
+<div class="t_width"></div>
+<!-- Transition Height -->
+<h2>Transition Height</h2>
+<div class="t_height"></div>
+<!-- Transition Both -->
+<h2>Transition Both</h2>
+<div class="t_both"></div>
+<!-- Transition Rotate -->
+<h2>Transition Rotate</h2>
+<div class="t_rotate"></div>
+<!-- Transition Timing Function -->
+<h2>Transition Timing Function</h2>
+<div class="t_timing"></div>
+<br><br><br>
+</body>
+</html>
