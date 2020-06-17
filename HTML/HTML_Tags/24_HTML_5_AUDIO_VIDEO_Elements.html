@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HTML Audio & Video</title>
+    <style>
+        body{
+            font-family: "Old English Text MT", sans-serif;
+        }
+        div{
+            background-image: url("img/background.jpg");
+            width: 400px;
+            text-align: center;
+            padding: 15px;
+            border-radius: 15px;
+            box-shadow: 0 0 15px black;
+        }
+        video{
+            width: 100%;
+            border-radius: 15px;
+            box-shadow:  0 0 15px white;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Audio Element -->
+    <h2>Audio Player</h2>
+    <div>
+        <audio controls>
+            <source src="media/songs.mp3" type="audio/mp3">
+        </audio>
+    </div>
+
+    <!-- Video Element -->
+    <h2>Video Player</h2>
+    <div>
+        <video controls>
+            <source src="media/harvard.mp4" type="video/mp4">
+        </video>
+    </div>
+
+</body>
+</html>

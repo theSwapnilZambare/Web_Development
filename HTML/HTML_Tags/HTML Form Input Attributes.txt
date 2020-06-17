@@ -1,0 +1,61 @@
+HTML Form Input Attributes
+---------------------------
+-> The HTML Form input attributes are used to apply some special effects for the input form fields on the webpage.
+-> The HTML form input attributes are as follows,
+
+1) value=""
+-----------
+-> The value attribute indicates the actual value of the input fields.
+-> This value attribute is having the connection with the server side program with this perticular input field.
+
+2) readonly
+-----------
+-> This attribute is used to make any input field as readonly field or a unmodifiable field.
+
+
+3) disabled
+------------
+-> This attribute is used to disable any input field to enter some data in that field.
+-> This is better than the 'readonly' attribute.
+
+4) size
+-------
+-> This is used to increase or decrease the size of an input field.
+-> We normally use this to increase or decrease the size of textbox and password box.
+
+5) rows , cols
+--------------
+-> These attributes are used to specify the custom height and width of textarea box.
+-> here 'rows' indicates height of textarea
+        'cols' indicates width of textarea
+		
+
+HTML5 Form input attributes
+---------------------------
+-> The following are HTML 5 version of form input attributes
+
+1) required
+------------
+-> By default all the form fields are optional fields means without filling those fields also we can submit the form.
+-> the 'required' is used to convert any form field as a mandatory field or required field.
+
+2) novalidate
+-------------
+-> Each HTML5 form elements are having its own default validation messages.
+-> If we wants to apply our own validation messages, first we have to disable the default validation messages and apply our own validation messages using JavaScript / JQuery / Angular JS.
+-> to disable the default validation messages we have to 'novalidate' attribute. We have to use this for the <form> tag itself.
+
+3) autofocus
+------------
+-> By default NONE of input field is autofocused.
+-> If we wants to apply any specific form field as automatically focused we have to use 'autofocus' attribute.
+
+4) pattern
+----------
+-> Most of the HTML form fields are having its own pattern.
+-> We can override the existing pattern and apply our own pattern for the specific form fields is by using 'pattern' attribute.
+
+5) placeholder
+--------------
+-> This is an alternate to the <label> tag.
+-> We can give the label information in the form field itself using 'placeholder' attribute.
