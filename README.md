@@ -1,15 +1,16 @@
 # Front end devlopment
 
-HTML
-CSS
-Bootstrap
-JavaScript
-jQuery
-Node.js
-React.js
+HTML,
+CSS,
+Bootstrap,
+JavaScript,
+jQuery,
+Node.js,
+React.js,
+
 
 Databases:
-MySQL
+MySQL,
 MongoDB
 
 
@@ -47,7 +48,7 @@ Atom > File > Settings > Install > (Search Package) > Install
 Atom Keyboard Shortcuts:
 https://github.com/nwinkler/atom-keyboard-shortcuts
 
-####################################################################################
+########################################################################
 
 ## 2. VS Code Text Editor:
 https://code.visualstudio.com/
@@ -76,13 +77,13 @@ file-icons
 # How to Install VS Code Extensions:
 VS Code > View > Extensions (Ctrl+Shift+X) > (Search) > Install
 
-######################################################################################
+########################################################################
 
 ## Online Code Editor:
 https://codepen.io/
 
-######################################################################################
-
+########################################################################
+########################################################################
 
 ## HTML Useful Resourses:
 
@@ -104,4 +105,4 @@ https://www.fileformat.info/info/charset/UTF-8/list.htm
 https://unicode-table.com/en/
 
 
-######################################################################################
+########################################################################
