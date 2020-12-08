@@ -20,16 +20,25 @@ MongoDB
 https://atom.io/
 
 ## List of Atom Plugins:
-atom-beautify
-atom-ternjs
-autoclose-html
-emmet
-csslint
-pigments
-language-ejs
+atom-beautify  
 
-atom-html-preview
-Sublime-Style-Column-Selection
+atom-ternjs  
+
+autoclose-html  
+
+emmet  
+
+csslint  
+
+pigments  
+
+language-ejs  
+
+
+atom-html-preview  
+
+Sublime-Style-Column-Selection 
+
 linter-eslint
 
 ## How to Install Atom Plugins:
@@ -44,15 +53,24 @@ https://github.com/nwinkler/atom-keyboard-shortcuts
 https://code.visualstudio.com/
 
 ## VS Code Extensions:
-esbenp.prettier-vscode
-formulahendry.auto-close-tag
-hex-ci.stylelint-plus
-dbaeumer.vscode-eslint
-naumovs.color-highlight
-DigitalBrainstem.javascript-ejs-support
 
-ritwickdey.LiveServer
-erikphansen.vscode-toggle-column-selection
+esbenp.prettier-vscode  
+
+formulahendry.auto-close-tag  
+
+hex-ci.stylelint-plus  
+
+dbaeumer.vscode-eslint  
+
+naumovs.color-highlight  
+
+DigitalBrainstem.javascript-ejs-support 
+
+
+ritwickdey.LiveServer  
+
+erikphansen.vscode-toggle-column-selection  
+
 file-icons
 
 # How to Install VS Code Extensions:
