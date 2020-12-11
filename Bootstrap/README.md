@@ -45,4 +45,60 @@ https://getbootstrap.com/docs/5.0/components/carousel/
 https://getbootstrap.com/docs/5.0/forms/overview/
 
 
+
+## Material Design for Bootstrap
+https://mdbootstrap.com/
+
+
+
+########################################################################
+
+
+
+# Bootstrap Alternatives Framworks:
+
+
+## Foundation:
+https://get.foundation/
+
+
+## Materialize:
+https://materializecss.com/
+
+
+## Bulma:
+https://bulma.io/
+
+
+## Tailwind CSS:
+https://tailwindcss.com/
+
+
+## HTML5 Boilerplate:
+https://html5boilerplate.com/
+
+
+## Material UI:
+https://material-ui.com/
+
+
+## Vuetify:
+https://vuetifyjs.com/en/
+
+
+## Angular Material:
+https://material.angular.io/
+
+
+## Vue Material:
+https://vuematerial.io/
+
+
+## Semantic UI:
+https://semantic-ui.com/
+
+
+and Many more...
+
+
 ########################################################################
