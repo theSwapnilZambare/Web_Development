@@ -3,10 +3,6 @@
 
 ## CSS stands for Cascading Style Sheets:
 
-CSS is the language we use to style an HTML document.  
-CSS describes how HTML elements should be displayed.  
-This tutorial will teach you CSS from basic to advanced.
-
 
 There are three ways of inserting a style sheet:
 1. External CSS
@@ -36,6 +32,10 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/margin
 
 ## CSS background-color:
 https://developer.mozilla.org/en-US/docs/Web/CSS/background-colorbackground-color
+
+
+## CSS Color value and code:
+https://developer.mozilla.org/en-US/docs/Web/CSS/color_value
 
 
 ## Color Palettes codes:
