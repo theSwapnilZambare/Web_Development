@@ -105,4 +105,13 @@ https://www.fileformat.info/info/charset/UTF-8/list.htm
 https://unicode-table.com/en/
 
 
+
+# FREE Vector icons:
+https://www.flaticon.com/
+
+
+# GIFs Images:
+https://giphy.com/
+
+
 ########################################################################
