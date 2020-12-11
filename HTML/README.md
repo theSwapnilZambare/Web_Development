@@ -20,3 +20,7 @@ https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf
 https://www.fileformat.info/info/charset/UTF-8/list.htm
 
 https://unicode-table.com/en/
+
+
+## Table MDN:
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table
