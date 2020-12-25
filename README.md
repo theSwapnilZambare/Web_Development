@@ -4,14 +4,22 @@ HTML,
 CSS,
 Bootstrap,
 JavaScript,
+Ajax,
 jQuery,
+
+
+AngularJs,
 Node.js,
 React.js,
 
 
 Databases:
 MySQL,
-MongoDB
+SQL,
+MS Access,
+MongoDB,
+DynamoDB,
+MariaDB,
 
 
 
