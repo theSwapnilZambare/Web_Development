@@ -19,6 +19,12 @@ https://www.codeply.com/
 
 
 
+#Bootstrap cheatsheet:
+
+https://hackerthemes.com/bootstrap-cheatsheet/
+
+
+
 ########################################################################
 
 
