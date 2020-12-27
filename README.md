@@ -1,32 +1,53 @@
 # Front end devlopment
 
 HTML
+
 CSS
+
 Bootstrap
+
 JavaScript
+
 Ajax
+
 jQuery
 
 
 
 ## JavaScript Framworks:
+
 React
+
 Vue.js
+
 Angular.js
+
 Ember.js
+
 Backbone.js
+
 Meteor.js
+
 Polymer.js
+
 Express.js
+
 Mithril.js
 
 
+
 ## Databases:
+
 MySQL
+
 SQL
+
 MS Access
+
 MongoDB
+
 DynamoDB
+
 MariaDB
 
 
