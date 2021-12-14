@@ -2,12 +2,26 @@
 
 HTML Useful Resourses
 
-## Documentations:
+## Tutorials & Documentations:
+https://www.w3schools.com/html
+
+https://www.tutorialspoint.com/html
+
+https://www.geeksforgeeks.org/html-tutorials/
+
 https://devdocs.io/
 
-https://www.w3schools.com/html/html_headings.asp
-
 https://developer.mozilla.org/en-US/docs/Web/HTML
+
+https://lab.github.com/githubtraining/introduction-to-html
+
+https://www.learn-html.org/
+
+
+## Video Tutorials:
+
+https://www.codewithharry.com/videos/html-tutorial-for-beginners
+
 
 
 ## Cheat sheet:
