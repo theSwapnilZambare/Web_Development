@@ -1,8 +1,8 @@
-# Front end devlopment
+# Web Devlopment
 
-<a href="https://theswapnilzambare.github.io/Web_Devlopment/HTML/" target="_blank" >HTML</a>
+<a href="https://theswapnilzambare.github.io/Web_Devlopment/HTML/" target="_blank" >HTML (Hypertext Markup Language)</a>
 
-<a href="https://theswapnilzambare.github.io/Web_Devlopment/CSS/" target="_blank" >CSS</a>
+<a href="https://theswapnilzambare.github.io/Web_Devlopment/CSS/" target="_blank" >CSS (Cascading Style Sheets)</a>
 
 Bootstrap
 
