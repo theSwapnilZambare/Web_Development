@@ -11,16 +11,16 @@ There are three ways of inserting a style sheet:
 
 
 
+## CSS Tutorials:
+https://www.w3schools.com/css
+
+
 ## CSS Documentations:
 https://devdocs.io/css/
 
 
 ## Cascading Style Sheets Cheatsheet (CSS)
 https://web.stanford.edu/group/csp/cs21/csscheatsheet.pdf
-
-
-## Default CSS Values for HTML Elements
-https://www.w3schools.com/css
 
 
 ## CSS border-style
