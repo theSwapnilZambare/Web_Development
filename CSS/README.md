@@ -1,4 +1,4 @@
-# CSS:
+# CSS (Cascading Style Sheets)
 
 
 ## CSS stands for Cascading Style Sheets:
@@ -8,6 +8,7 @@ There are three ways of inserting a style sheet:
 1. External CSS
 2. Internal CSS
 3. Inline CSS
+
 
 
 ## CSS Documentations:
