@@ -20,7 +20,7 @@ https://web.stanford.edu/group/csp/cs21/csscheatsheet.pdf
 
 
 ## Default CSS Values for HTML Elements
-https://www.w3schools.com/cssref/css_default_values.asp
+https://www.w3schools.com/css
 
 
 ## CSS border-style
