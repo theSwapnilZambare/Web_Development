@@ -1,5 +1,4 @@
-# <a href="https://theswapnilzambare.github.io/Web_Devlopment/" target="_blank" >Web Devlopment</a>
-
+# Web Devlopment
 
 <a href="https://theswapnilzambare.github.io/Web_Devlopment/HTML/" target="_blank" >HTML (Hypertext Markup Language)</a>
 
@@ -77,11 +76,12 @@ MS Access
 
 
 
-
 # TEXT Editors:
 
 ## 1. Atom Text Editor:
-https://atom.io/
+
+<a href="https://atom.io/" target="_blank" >Atom.io</a>
+
 
 ## List of Atom Plugins:
 atom-beautify  
@@ -137,25 +137,28 @@ erikphansen.vscode-toggle-column-selection
 
 file-icons
 
-# How to Install VS Code Extensions:
+## How to Install VS Code Extensions:
 VS Code > View > Extensions (Ctrl+Shift+X) > (Search) > Install
 
 
 ########################################################################
 
-## HTML Useful Resourses:
+
+# HTML Useful Resourses:
 
 ## Documentations:
 https://devdocs.io/
 
-https://www.w3schools.com/html/html_headings.asp
+https://www.w3schools.com/html/
 
 https://developer.mozilla.org/en-US/docs/Web/HTML
+
 
 ## Cheat sheet:
 https://docs.emmet.io/cheat-sheet/
 
 https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf
+
 
 ## Complete Character List for UTF-8:
 https://www.fileformat.info/info/charset/UTF-8/list.htm
@@ -165,11 +168,15 @@ https://unicode-table.com/en/
 
 
 # FREE Vector icons:
-https://www.flaticon.com/
+<a href="https://www.flaticon.com/" target="_blank" >flaticon.com</a>
 
 
 # GIFs Images:
 https://giphy.com/
 
 
-########################################################################
+
+## <a href="https://github.com/theSwapnilZambare/Web_Devlopment" target="_blank" >https://github.com/theSwapnilZambare/Web_Devlopment</a>
+
+################################################################################
+
