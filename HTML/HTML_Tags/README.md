@@ -26,10 +26,15 @@
 
 
 
+
+
 #########################################################################
 
 ## HTML Useful Resourses
 
-## Tutorials & Documentations:
-https://www.w3schools.com/html
+## HTML Tutorials:
+<a href="https://www.w3schools.com/html" target="_blank" >w3schools HTML</a>
 
+
+
+# <a href="https://github.com/theSwapnilZambare/Web_Devlopment" target="_blank" >Web Devlopment</a> 
