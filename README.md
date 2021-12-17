@@ -18,9 +18,9 @@ jQuery
 
 React
 
-Vue.js
-
 Angular.js
+
+Vue.js
 
 Ember.js
 
@@ -40,16 +40,39 @@ Mithril.js
 
 MySQL
 
-SQL
-
-MS Access
-
 MongoDB
 
 DynamoDB
 
 MariaDB
 
+SQL
+
+MS Access
+
+
+########################################################################
+
+# Online Code Editor:
+
+<a href="https://codepen.io/pen/" target="_blank" >Codepen.io</a>
+
+
+<a href="https://www.codeply.com/p" target="_blank" >Codeply.com</a>
+
+
+<a href="https://codepad.co/playground" target="_blank" >codepad.co</a>
+
+
+<a href="https://jsfiddle.net/" target="_blank" >jsfiddle.net</a>
+
+
+<a href="https://www.w3schools.com/tryit/" target="_blank" >w3schools.com</a>
+
+
+
+
+########################################################################
 
 
 
@@ -116,12 +139,7 @@ file-icons
 # How to Install VS Code Extensions:
 VS Code > View > Extensions (Ctrl+Shift+X) > (Search) > Install
 
-########################################################################
 
-## Online Code Editor:
-https://codepen.io/
-
-########################################################################
 ########################################################################
 
 ## HTML Useful Resourses:
