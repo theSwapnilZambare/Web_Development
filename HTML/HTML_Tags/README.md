@@ -20,7 +20,10 @@
 05. <a href="https://theswapnilzambare.github.io/Web_Devlopment/HTML/HTML_Tags/05_HTML_Text_Formatting.html" target="_blank" >HTML Text Formatting</a>
 
 
-04. <a href="https://theswapnilzambare.github.io/Web_Devlopment/HTML/HTML_Tags/06_HTML_UnOrdered_List.html" target="_blank" >HTML UnOrdered List</a>
+06. <a href="https://theswapnilzambare.github.io/Web_Devlopment/HTML/HTML_Tags/06_HTML_UnOrdered_List.html" target="_blank" >HTML UnOrdered List</a>
+
+
+07. <a href="https://theswapnilzambare.github.io/Web_Devlopment/HTML/HTML_Tags/07_HTML_Ordered_List.html" target="_blank" >HTML Ordered List</a>
 
 
 
