@@ -143,7 +143,6 @@ VS Code > View > Extensions (Ctrl+Shift+X) > (Search) > Install
 
 ########################################################################
 
-
 # HTML Useful Resourses:
 
 ## Documentations:
@@ -178,5 +177,4 @@ https://giphy.com/
 
 ## <a href="https://github.com/theSwapnilZambare/Web_Devlopment" target="_blank" >https://github.com/theSwapnilZambare/Web_Devlopment</a>
 
-################################################################################
-
+########################################################################
