@@ -1,5 +1,5 @@
 # Web Devlopment
-
+Web_Devlopment
 <a href="https://theswapnilzambare.github.io/Web_Devlopment/HTML/" target="_blank" >HTML (Hypertext Markup Language)</a>
 
 <a href="https://theswapnilzambare.github.io/Web_Devlopment/CSS/" target="_blank" >CSS (Cascading Style Sheets)</a>
@@ -13,42 +13,6 @@ Ajax
 jQuery
 
 
-
-## JavaScript Framworks:
-
-React
-
-Angular.js
-
-Vue.js
-
-Ember.js
-
-Backbone.js
-
-Meteor.js
-
-Polymer.js
-
-Express.js
-
-Mithril.js
-
-
-
-## Databases:
-
-MySQL
-
-MongoDB
-
-DynamoDB
-
-MariaDB
-
-SQL
-
-MS Access
 
 
 ##############################
@@ -76,81 +40,53 @@ MS Access
 
 
 
-# TEXT Editors:
+# TEXT Editors & IDE:
 
-## 1. Atom Text Editor:
-
+## 1. Atom:
 <a href="https://atom.io/" target="_blank" >Atom.io</a>
 
 
-## List of Atom Plugins:
-atom-beautify  
-
-atom-ternjs  
-
-autoclose-html  
-
-emmet  
-
-csslint  
-
-pigments  
-
-language-ejs  
+## 2. VS Code:
+<a href="https://code.visualstudio.com/" target="_blank" >Visualstudio.com</a>
 
 
-atom-html-preview  
-
-Sublime-Style-Column-Selection 
-
-linter-eslint
-
-## How to Install Atom Plugins:
-Atom > File > Settings > Install > (Search Package) > Install
-
-Atom Keyboard Shortcuts:
-https://github.com/nwinkler/atom-keyboard-shortcuts
-
-##############################
-
-## 2. VS Code Text Editor:
-https://code.visualstudio.com/
-
-## VS Code Extensions:
-
-esbenp.prettier-vscode  
-
-formulahendry.auto-close-tag  
-
-hex-ci.stylelint-plus  
-
-dbaeumer.vscode-eslint  
-
-naumovs.color-highlight  
-
-DigitalBrainstem.javascript-ejs-support 
+## 3. Sublime text:
+<a href="https://www.sublimetext.com/" target="_blank" >Sublimetext.com</a>
 
 
-ritwickdey.LiveServer  
+## 4. Eclipse IDE:
+<a href="https://www.eclipse.org/ide/" target="_blank" >Eclipse IDE</a>
 
-erikphansen.vscode-toggle-column-selection  
 
-file-icons
+## 5. Notepad++:
+<a href="https://notepad-plus-plus.org/downloads/" target="_blank" >Notepad++</a>
 
-## How to Install VS Code Extensions:
-VS Code > View > Extensions (Ctrl+Shift+X) > (Search) > Install
 
 
 ##############################
 
 # HTML Useful Resourses:
 
-## Documentations:
+## Tutorials & Documentations:
+https://www.w3schools.com/html
+
+https://www.tutorialspoint.com/html
+
+https://www.geeksforgeeks.org/html-tutorials/
+
 https://devdocs.io/
 
-https://www.w3schools.com/html/
-
 https://developer.mozilla.org/en-US/docs/Web/HTML
+
+https://lab.github.com/githubtraining/introduction-to-html
+
+https://www.learn-html.org/
+
+
+
+## Video Tutorials:
+https://www.codewithharry.com/videos/html-tutorial-for-beginners
+
 
 
 ## Cheat sheet:
@@ -164,13 +100,18 @@ https://www.fileformat.info/info/charset/UTF-8/list.htm
 
 https://unicode-table.com/en/
 
+## Table MDN:
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table
+
+https://unicode-table.com/en/
 
 
-# FREE Vector icons:
+
+## FREE Vector icons:
 <a href="https://www.flaticon.com/" target="_blank" >flaticon.com</a>
 
 
-# GIFs Images:
+## GIFs Images:
 https://giphy.com/
 
 
