@@ -36,4 +36,4 @@
 
 
 
-## <a href="https://github.com/theSwapnilZambare/Web_Devlopment">https://github.com/theSwapnilZambare/Web_Devlopment</a> 
+## <a href="https://theswapnilzambare.github.io/Web_Devlopment">https://theSwapnilZambare.github.io/Web_Devlopment</a> 
