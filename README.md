@@ -51,7 +51,7 @@ SQL
 MS Access
 
 
-########################################################################
+##############################
 
 # Online Code Editor:
 
@@ -72,7 +72,7 @@ MS Access
 
 
 
-########################################################################
+##############################
 
 
 
@@ -111,7 +111,7 @@ Atom > File > Settings > Install > (Search Package) > Install
 Atom Keyboard Shortcuts:
 https://github.com/nwinkler/atom-keyboard-shortcuts
 
-########################################################################
+##############################
 
 ## 2. VS Code Text Editor:
 https://code.visualstudio.com/
@@ -141,7 +141,7 @@ file-icons
 VS Code > View > Extensions (Ctrl+Shift+X) > (Search) > Install
 
 
-########################################################################
+##############################
 
 # HTML Useful Resourses:
 
@@ -175,6 +175,6 @@ https://giphy.com/
 
 
 
-## <a href="https://github.com/theSwapnilZambare/Web_Devlopment" target="_blank" >https://github.com/theSwapnilZambare/Web_Devlopment</a>
+## <a href="https://theswapnilzambare.github.io/Web_Devlopment/" target="_blank" >https://theswapnilzambare.github.io/Web_Devlopment/</a>
 
-########################################################################
+##############################
