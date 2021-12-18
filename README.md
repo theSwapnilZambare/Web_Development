@@ -1,17 +1,13 @@
 # Web Devlopment
 
 
-<a href="https://theswapnilzambare.github.io/Web_Devlopment/HTML/" target="_blank" >HTML (Hypertext Markup Language)</a>
+<a href="https://theswapnilzambare.github.io/Web_Devlopment/HTML/">HTML (Hypertext Markup Language)</a>
 
-<a href="https://theswapnilzambare.github.io/Web_Devlopment/CSS/" target="_blank" >CSS (Cascading Style Sheets)</a>
+<a href="https://theswapnilzambare.github.io/Web_Devlopment/CSS/">CSS (Cascading Style Sheets)</a>
 
 Bootstrap
 
 JavaScript
-
-Ajax
-
-jQuery
 
 
 
@@ -116,7 +112,7 @@ https://unicode-table.com/en/
 https://giphy.com/
 
 
+##
 
 ## <a href="https://theswapnilzambare.github.io/Web_Devlopment/" target="_blank" >https://theswapnilzambare.github.io/Web_Devlopment/</a>
 
-##############################
