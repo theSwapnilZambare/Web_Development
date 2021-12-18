@@ -31,11 +31,8 @@
 
 
 
-#########################################################################
+#################################
 
-
-## HTML Tutorials:
-<a href="https://www.w3schools.com/html" target="_blank" >w3schools HTML</a>
 
 
 
