@@ -1,7 +1,6 @@
 # HTML Tags
 
-
-##  <a href="https://theswapnilzambare.github.io/Web_Devlopment/HTML/HTML_Tags/">Index of / HTML Tags</a>
+##  <a href="https://theswapnilzambare.github.io/Web_Devlopment/HTML">Index of / HTML</a>
 
 
 
