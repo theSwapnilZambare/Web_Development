@@ -120,6 +120,12 @@ JavaScript
 
 <hr>
 
+## HTML Code Encrypter:
+<a href="https://www.webtoolhub.com/tn561359-html-encrypter.aspx" target="_blank" >Web tool hub HTML Code Encrypter</a>
+
+
+<hr>
+
 
 # HTML Useful Resourses:
 
