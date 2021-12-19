@@ -61,6 +61,7 @@ JavaScript
 ## 6. Brackets:
 <a href="https://brackets.io/" target="_blank" >Brackets</a>
 
+##############################
 
 <hr>
 # Games to learn CSS the fun way:
@@ -97,6 +98,23 @@ JavaScript
 
 
 ##############################
+
+<hr>
+
+# HTML Formatter
+
+## html-formatter:
+<a href="https://goonlinetools.com/html-formatter/" target="_blank" >goonlinetools.com/html-formatter</a>
+
+## css-formatter:
+<a href="https://goonlinetools.com/css-formatter/" target="_blank" >goonlinetools.com/css-formatter</a>
+
+## php-beautifier:
+<a href="https://goonlinetools.com/php-beautifier/" target="_blank" >goonlinetools.com/php-beautifier</a>
+
+
+<hr>
+
 
 # HTML Useful Resourses:
 
