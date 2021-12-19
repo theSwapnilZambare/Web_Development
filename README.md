@@ -101,16 +101,21 @@ JavaScript
 
 <hr>
 
-# HTML Formatter
+# Online Code Formatter:
 
-## html-formatter:
-<a href="https://goonlinetools.com/html-formatter/" target="_blank" >goonlinetools.com/html-formatter</a>
+## Goonlinetools:
+<a href="https://goonlinetools.com/" target="_blank" >Goonlinetools.com</a>
 
-## css-formatter:
-<a href="https://goonlinetools.com/css-formatter/" target="_blank" >goonlinetools.com/css-formatter</a>
+## Tutorialspoint:
+<a href="https://www.tutorialspoint.com/online_html_formatter.htm" target="_blank" >tutorialspoint.com/online_html_formatter.htm</a>
 
-## php-beautifier:
-<a href="https://goonlinetools.com/php-beautifier/" target="_blank" >goonlinetools.com/php-beautifier</a>
+
+## Beautify Tools:
+<a href="https://beautifytools.com/" target="_blank" >beautifytools.com</a>
+
+
+## Code Beautify:
+<a href="https://codebeautify.org/" target="_blank" >codebeautify.org</a>
 
 
 <hr>
