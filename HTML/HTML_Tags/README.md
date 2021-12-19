@@ -23,6 +23,10 @@
 
 <a href="https://theswapnilzambare.github.io/Web_Devlopment/HTML/HTML_Tags/10_HTML_Links.html" target="_blank" >10. HTML Links</a>
 
+<a href="https://theswapnilzambare.github.io/Web_Devlopment/HTML/HTML_Tags/11_HTML_Entities.html" target="_blank" >11. HTML Entities</a>
+
+<a href="https://theswapnilzambare.github.io/Web_Devlopment/HTML/HTML_Tags/12_HTML_IFrames.html" target="_blank" >12. HTML IFrames</a>
+
 
 
 
