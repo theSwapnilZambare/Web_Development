@@ -58,6 +58,17 @@ JavaScript
 ## 5. Notepad++:
 <a href="https://notepad-plus-plus.org/downloads/" target="_blank" >Notepad++</a>
 
+## 6. Brackets:
+<a href="https://brackets.io/" target="_blank" >Brackets</a>
+
+
+<hr>
+## Online Games:
+
+## Flexbox Froggy:
+<a href="https://flexboxfroggy.com/" target="_blank" >Flexboxfroggy</a>
+
+
 
 
 ##############################
