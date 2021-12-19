@@ -33,6 +33,8 @@
 
 <a href="https://theswapnilzambare.github.io/Web_Devlopment/HTML/HTML_Tags/15_HTML_Input_Types.html" target="_blank" >13. HTML Input Types</a>
 
+<a href="https://theswapnilzambare.github.io/Web_Devlopment/HTML/HTML_Tags/16_HTML_Input_Attributes.html" target="_blank" >13. HTML Input Attributes</a>
+
 
 
 <hr>
