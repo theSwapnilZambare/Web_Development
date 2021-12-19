@@ -15,7 +15,7 @@
 
 <a href="https://theswapnilzambare.github.io/Web_Devlopment/HTML/HTML_Tags/06_HTML_UnOrdered_List.html" target="_blank" >06. HTML UnOrdered List</a>
 
-<a href="https://theswapnilzambare.github.io/Web_Devlopment/HTML/HTML_Tags/07_HTML_Ordered_List.html" target="_blank" >07. HTML Ordered List</a>>
+<a href="https://theswapnilzambare.github.io/Web_Devlopment/HTML/HTML_Tags/07_HTML_Ordered_List.html" target="_blank" >07. HTML Ordered List</a>
 
 <a href="https://theswapnilzambare.github.io/Web_Devlopment/HTML/HTML_Tags/08_HTML_Images.html" target="_blank" >08. HTML Image</a>
 
