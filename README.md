@@ -130,7 +130,8 @@ JavaScript
 # HTML Useful Resourses:
 
 ## Tutorials & Documentations:
-https://www.w3schools.com/html
+
+<a href="https://www.w3schools.com/html" target="_blank" >w3schools</a>
 
 https://www.tutorialspoint.com/html
 
