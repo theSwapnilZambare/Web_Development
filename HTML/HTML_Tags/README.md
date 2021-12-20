@@ -43,6 +43,8 @@
 
 <a href="https://theswapnilzambare.github.io/Web_Devlopment/HTML/HTML_Tags/20_HTML_5_Navigation_Element.html" target="_blank" >20. HTML Navigation Element</a>
 
+<a href="https://theswapnilzambare.github.io/Web_Devlopment/HTML/HTML_Tags/21_HTML_5_Figure_Caption_Elements.html" target="_blank" >21. HTML Figure Caption Elements</a>
+
 
 
 <hr>
