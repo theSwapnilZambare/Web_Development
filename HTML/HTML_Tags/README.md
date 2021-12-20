@@ -35,6 +35,10 @@
 
 <a href="https://theswapnilzambare.github.io/Web_Devlopment/HTML/HTML_Tags/16_HTML_Input_Attributes.html" target="_blank" >16. HTML Input Attributes</a>
 
+<a href="https://theswapnilzambare.github.io/Web_Devlopment/HTML/HTML_Tags/17_HTML_5_Section_Article_Element.html" target="_blank" >17. HTML Section Article Element</a>
+
+<a href="https://theswapnilzambare.github.io/Web_Devlopment/HTML/HTML_Tags/18_HTML_5_Header_Footer_Element.html" target="_blank" >18. HTML Header Footer Element</a>
+
 
 
 <hr>
