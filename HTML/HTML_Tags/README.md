@@ -45,7 +45,9 @@
 
 <a href="https://theswapnilzambare.github.io/Web_Devlopment/HTML/HTML_Tags/21_HTML_5_Figure_Caption_Elements.html" target="_blank" >21. HTML Figure Caption Elements</a>
 
-<a href="https://theswapnilzambare.github.io/Web_Devlopment/HTML/HTML_Tags/22_HTML_5_Details_Summary_Element.html" target="_blank" >22. HTML Details_Summary_Element</a>
+<a href="https://theswapnilzambare.github.io/Web_Devlopment/HTML/HTML_Tags/22_HTML_5_Details_Summary_Element.html" target="_blank" >22. HTML Details Summary Element</a>
+
+<a href="https://theswapnilzambare.github.io/Web_Devlopment/HTML/HTML_Tags/23_HTML_5_Main_Element.html" target="_blank" >23. HTML Main Element</a>
 
 
 <hr>
