@@ -133,9 +133,12 @@ JavaScript
 
 <a href="https://www.w3schools.com/html" target="_blank" >w3schools</a>
 
-https://www.tutorialspoint.com/html
+<a href="https://www.tutorialspoint.com/html" target="_blank" >Tutorials point</a>
 
-https://www.geeksforgeeks.org/html-tutorials/
+<a href="https://www.geeksforgeeks.org/html-tutorials/" target="_blank" >Geeks for geeks</a>
+
+
+
 
 https://devdocs.io/
 
