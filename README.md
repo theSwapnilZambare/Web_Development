@@ -64,7 +64,8 @@ JavaScript
 ##############################
 
 <hr>
-# Games to learn CSS the fun way:
+
+# Games to learn CSS the fun way
 
 ## Flexbox Froggy:
 <a href="https://flexboxfroggy.com/" target="_blank" >Flexboxfroggy</a>
