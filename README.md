@@ -129,6 +129,13 @@ JavaScript
 
 # HTML Useful Resourses:
 
+## Online CDN:
+
+<a href="https://cdnjs.com/" target="_blank" >cdnjs.com | Search Any CDN service </a>
+
+<a href="https://www.jsdelivr.com/" target="_blank" >jsdelivr.com</a>
+
+
 ## Tutorials & Documentations:
 
 <a href="https://lab.github.com/githubtraining/introduction-to-html" target="_blank" >lab.github.com</a>
@@ -172,8 +179,11 @@ https://unicode-table.com/en/
 
 
 
-## FREE Vector icons:
-<a href="https://www.flaticon.com/" target="_blank" >flaticon.com</a>
+## Vector icons and Social logos:
+
+<a href="https://fontawesome.com/" target="_blank" >Fontawesome.com</a>
+
+<a href="https://www.flaticon.com/" target="_blank" >Flaticon.com</a>
 
 
 ## GIFs Images:
