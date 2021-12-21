@@ -104,18 +104,18 @@ JavaScript
 # Online Code Formatter:
 
 ## Goonlinetools:
-<a href="https://goonlinetools.com/" target="_blank" >Goonlinetools.com</a>
+<a href="https://goonlinetools.com/" target="_blank" >Go online tools</a>
 
 ## Tutorialspoint:
-<a href="https://www.tutorialspoint.com/online_html_formatter.htm" target="_blank" >tutorialspoint.com/online_html_formatter.htm</a>
+<a href="https://www.tutorialspoint.com/online_html_formatter.htm" target="_blank" >tutorialspoint.com</a>
 
 
 ## Beautify Tools:
-<a href="https://beautifytools.com/" target="_blank" >beautifytools.com</a>
+<a href="https://beautifytools.com/" target="_blank" >Beautify tools</a>
 
 
 ## Code Beautify:
-<a href="https://codebeautify.org/" target="_blank" >codebeautify.org</a>
+<a href="https://codebeautify.org/" target="_blank" >Code Beautify</a>
 
 
 <hr>
