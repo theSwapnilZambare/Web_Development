@@ -131,27 +131,26 @@ JavaScript
 
 ## Tutorials & Documentations:
 
+<a href="https://lab.github.com/githubtraining/introduction-to-html" target="_blank" >lab.github.com</a>
+
 <a href="https://www.w3schools.com/html" target="_blank" >w3schools</a>
 
 <a href="https://www.tutorialspoint.com/html" target="_blank" >Tutorials point</a>
 
 <a href="https://www.geeksforgeeks.org/html-tutorials/" target="_blank" >Geeks for geeks</a>
 
+<a href="https://devdocs.io/" target="_blank" >Dev docs</a>
 
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" >developer.mozilla.org</a>
 
-
-https://devdocs.io/
-
-https://developer.mozilla.org/en-US/docs/Web/HTML
-
-https://lab.github.com/githubtraining/introduction-to-html
-
-https://www.learn-html.org/
+<a href="https://www.learn-html.org/" target="_blank" >learn-html.org</a>
 
 
 
 ## Video Tutorials:
-https://www.codewithharry.com/videos/html-tutorial-for-beginners
+
+<a href="https://www.codewithharry.com/videos/html-tutorial-for-beginners" target="_blank" >Code with Harry</a>
+
 
 
 
