@@ -1,4 +1,4 @@
-# HTML Tags
+# CSS Basics
 
 ##  <a href="https://theswapnilzambare.github.io/Web_Devlopment/CSS">Index of / CSS</a>
 
