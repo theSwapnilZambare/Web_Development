@@ -5,7 +5,7 @@
 
 
 
-##  <a href="https://theswapnilzambare.github.io/Web_Devlopment/CSS/CSS_Basics/">CSS Basics</a>
+##  <a href="https://theswapnilzambare.github.io/Web_Devlopment/CSS/CSS_Basics/">1. CSS Basics</a>
 
 
 <hr>
