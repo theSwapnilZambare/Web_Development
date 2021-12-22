@@ -137,6 +137,23 @@ JavaScript
 <a href="https://www.jsdelivr.com/" target="_blank" >jsdelivr.com</a>
 
 
+## Carousel / Slider:
+
+<a href="https://owlcarousel2.github.io/OwlCarousel2/" target="_blank" >Owl Carousel</a>
+
+<a href="https://ganlanyuan.github.io/tiny-slider/" target="_blank" >tiny-slider</a>
+
+<a href="http://kenwheeler.github.io/slick/" target="_blank" >slick</a>
+
+
+
+## CSS Library:
+
+<a href="https://animate.style/" target="_blank" >Animate CSS</a>
+
+
+
+
 ## Tutorials & Documentations:
 
 <a href="https://lab.github.com/githubtraining/introduction-to-html" target="_blank" >lab.github.com</a>
