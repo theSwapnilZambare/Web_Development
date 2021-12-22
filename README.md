@@ -147,9 +147,11 @@ JavaScript
 
 
 
-## CSS Library:
+## CSS framework / Library:
 
 <a href="https://animate.style/" target="_blank" >Animate CSS</a>
+
+<a href="https://tailwindcss.com/" target="_blank" >Tailwind CSS</a>
 
 
 
