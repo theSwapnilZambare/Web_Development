@@ -1,9 +1,9 @@
 # Web Devlopment
 
 
-<a href="https://theswapnilzambare.github.io/Web_Devlopment/HTML/">HTML (Hypertext Markup Language)</a>
+<a href="https://theswapnilzambare.github.io/Web_Development/HTML/">HTML (Hypertext Markup Language)</a>
 
-<a href="https://theswapnilzambare.github.io/Web_Devlopment/CSS/">CSS (Cascading Style Sheets)</a>
+<a href="https://theswapnilzambare.github.io/Web_Development/CSS/">CSS (Cascading Style Sheets)</a>
 
 Bootstrap
 
@@ -212,5 +212,5 @@ https://giphy.com/
 
 ##
 
-## <a href="https://theswapnilzambare.github.io/Web_Devlopment/" target="_blank" >https://theswapnilzambare.github.io/Web_Devlopment/</a>
+## <a href="https://theswapnilzambare.github.io/Web_Development/" target="_blank" >https://theswapnilzambare.github.io/Web_Development/</a>
 
