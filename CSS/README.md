@@ -1,11 +1,11 @@
 # CSS (Cascading Style Sheets)
 
-##  <a href="https://theswapnilzambare.github.io/Web_Devlopment/">Index of / Web_Devlopment</a>
+##  <a href="https://theswapnilzambare.github.io/Web_Development/">Index of / Web_Development</a>
 <hr>
 
 
 
-##  <a href="https://theswapnilzambare.github.io/Web_Devlopment/CSS/CSS_Basics/">1. CSS Basics</a>
+##  <a href="https://theswapnilzambare.github.io/Web_Development/CSS/CSS_Basics/">1. CSS Basics</a>
 
 
 <hr>
