@@ -15,6 +15,16 @@
 
 <a href="https://theswapnilzambare.github.io/Web_Development/CSS/CSS_Basics/06_CSS-Outline.html" target="_blank">06. CSS Outline</a>
 
+<a href="https://theswapnilzambare.github.io/Web_Development/CSS/CSS_Basics/07_CSS_TEXT_Format.html" target="_blank">07. CSS Text Format</a>
+
+<a href="https://theswapnilzambare.github.io/Web_Development/CSS/CSS_Basics/08_CSS_Fonts.html" target="_blank">08. CSS Fonts</a>
+
+<a href="https://theswapnilzambare.github.io/Web_Development/CSS/CSS_Basics/09_CSS_Links.html" target="_blank">09. CSS Links</a>
+
+<a href="https://theswapnilzambare.github.io/Web_Development/CSS/CSS_Basics/10_CSS_Tables.html" target="_blank">10. CSS Tables</a>
+
+
+
 <hr>
 
 #################################
