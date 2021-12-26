@@ -161,32 +161,31 @@ JavaScript
 
 
 ## Cheat sheet:
-https://docs.emmet.io/cheat-sheet/
 
-https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf
+- <a href="https://docs.emmet.io/cheat-sheet/" target="_blank" >https://docs.emmet.io/cheat-sheet</a>
+
+- <a href="https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf" target="_blank" >HTML cheatsheet pdf</a>
+
 
 
 ## Complete Character List for UTF-8:
-https://www.fileformat.info/info/charset/UTF-8/list.htm
 
-https://unicode-table.com/en/
+- <a href="https://www.fileformat.info/info/charset/UTF-8/list.htm" target="_blank" >https://www.fileformat.info/info/charset/UTF-8</a>
 
-## Table MDN:
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table
-
-https://unicode-table.com/en/
-
+- <a href="https://unicode-table.com/en/" target="_blank" >https://unicode-table.com</a>
 
 
 ## Vector icons and Social logos:
 
-<a href="https://fontawesome.com/" target="_blank" >Fontawesome.com</a>
+- <a href="https://fontawesome.com/" target="_blank" >Fontawesome.com</a>
 
-<a href="https://www.flaticon.com/" target="_blank" >Flaticon.com</a>
+- <a href="https://www.flaticon.com/" target="_blank" >Flaticon.com</a>
 
 
 ## GIFs Images:
-https://giphy.com/
+
+- <a href="https://giphy.com/" target="_blank" >Giphy.com</a>
+
 
 
 ##
