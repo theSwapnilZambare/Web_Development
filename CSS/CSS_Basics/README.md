@@ -13,6 +13,8 @@
 
 <a href="https://theswapnilzambare.github.io/Web_Development/CSS/CSS_Basics/05_CSS_Paddings.html" target="_blank">05. CSS Paddings</a>
 
+<a href="https://theswapnilzambare.github.io/Web_Development/CSS/CSS_Basics/06_CSS-Outline.html" target="_blank">06. CSS Outline</a>
+
 <hr>
 
 #################################
