@@ -16,19 +16,19 @@ JavaScript
 
 # Online Code Editor:
 
-<a href="https://codepen.io/pen/" target="_blank" >Codepen.io</a>
+- <a href="https://codepen.io/pen/" target="_blank" >Codepen.io</a>
 
 
-<a href="https://www.codeply.com/p" target="_blank" >Codeply.com</a>
+- <a href="https://www.codeply.com/p" target="_blank" >Codeply.com</a>
 
 
-<a href="https://codepad.co/playground" target="_blank" >codepad.co</a>
+- <a href="https://codepad.co/playground" target="_blank" >codepad.co</a>
 
 
-<a href="https://jsfiddle.net/" target="_blank" >jsfiddle.net</a>
+- <a href="https://jsfiddle.net/" target="_blank" >jsfiddle.net</a>
 
 
-<a href="https://www.w3schools.com/tryit/" target="_blank" >w3schools.com</a>
+- <a href="https://www.w3schools.com/tryit/" target="_blank" >w3schools.com</a>
 
 
 
@@ -67,34 +67,19 @@ JavaScript
 
 # Games to learn CSS the fun way
 
-## Flexbox Froggy:
-<a href="https://flexboxfroggy.com/" target="_blank" >Flexboxfroggy</a>
+- <a href="https://flexboxfroggy.com/" target="_blank" >Flexbox Froggy</a>
 
+- <a href="http://www.flexboxdefense.com/" target="_blank" >Flexbox defense</a>
 
-## Flexboxdefense:
-<a href="http://www.flexboxdefense.com/" target="_blank" >Flexboxdefense</a>
+- <a href="https://cssgridgarden.com/" target="_blank" >CSS Grid Garden</a>
 
+- <a href="https://flukeout.github.io/" target="_blank" >Flukeout</a>
 
-## CSS Grid Garden:
-<a href="https://cssgridgarden.com/" target="_blank" >cssgridgarden</a>
+- <a href="https://rupl.github.io/unfold/" target="_blank" >Unfold</a>
 
+- <a href="https://cssbattle.dev/" target="_blank" >CSSBattle</a>
 
-## Flukeout:
-<a href="https://flukeout.github.io/" target="_blank" >Flukeout</a>
-
-
-## CSS Grid Garden:
-<a href="https://cssgridgarden.com/" target="_blank" >cssgridgarden</a>
-
-## Unfold:
-<a href="https://rupl.github.io/unfold/" target="_blank" >Unfold</a>
-
-## CSSBattle:
-<a href="https://cssbattle.dev/" target="_blank" >CSSBattle</a>
-
-
-## Roadmap:
-<a href="http://victordarras.fr/cssgame/" target="_blank" >Roadmap</a>
+- <a href="http://victordarras.fr/cssgame/" target="_blank" >Roadmap</a>
 
 
 
@@ -104,25 +89,19 @@ JavaScript
 
 # Online Code Formatter:
 
-## Goonlinetools:
-<a href="https://goonlinetools.com/" target="_blank" >Go online tools</a>
+- <a href="https://goonlinetools.com/" target="_blank" >Go online tools</a>
 
-## Tutorialspoint:
-<a href="https://www.tutorialspoint.com/online_html_formatter.htm" target="_blank" >tutorialspoint.com</a>
+- <a href="https://www.tutorialspoint.com/online_html_formatter.htm" target="_blank" >Tutorials point</a>
 
+- <a href="https://beautifytools.com/" target="_blank" >Beautify tools</a>
 
-## Beautify Tools:
-<a href="https://beautifytools.com/" target="_blank" >Beautify tools</a>
-
-
-## Code Beautify:
-<a href="https://codebeautify.org/" target="_blank" >Code Beautify</a>
+- <a href="https://codebeautify.org/" target="_blank" >Code Beautify</a>
 
 
 <hr>
 
 ## HTML Code Encrypter:
-<a href="https://www.webtoolhub.com/tn561359-html-encrypter.aspx" target="_blank" >Web tool hub HTML Code Encrypter</a>
+- <a href="https://www.webtoolhub.com/tn561359-html-encrypter.aspx" target="_blank" >Web tool hub HTML Code Encrypter</a>
 
 
 <hr>
@@ -132,26 +111,26 @@ JavaScript
 
 ## Online CDN:
 
-<a href="https://cdnjs.com/" target="_blank" >cdnjs.com | Search Any CDN service </a>
+- <a href="https://cdnjs.com/" target="_blank" >cdnjs.com | Search Any CDN service </a>
 
-<a href="https://www.jsdelivr.com/" target="_blank" >jsdelivr.com</a>
+- <a href="https://www.jsdelivr.com/" target="_blank" >jsdelivr.com</a>
 
 
 ## Carousel / Slider:
 
-<a href="https://owlcarousel2.github.io/OwlCarousel2/" target="_blank" >Owl Carousel</a>
+- <a href="https://owlcarousel2.github.io/OwlCarousel2/" target="_blank" >Owl Carousel</a>
 
-<a href="https://ganlanyuan.github.io/tiny-slider/" target="_blank" >tiny-slider</a>
+- <a href="https://ganlanyuan.github.io/tiny-slider/" target="_blank" >tiny-slider</a>
 
-<a href="http://kenwheeler.github.io/slick/" target="_blank" >slick</a>
+- <a href="http://kenwheeler.github.io/slick/" target="_blank" >slick</a>
 
 
 
 ## CSS framework / Library:
 
-<a href="https://animate.style/" target="_blank" >Animate CSS</a>
+- <a href="https://animate.style/" target="_blank" >Animate CSS</a>
 
-<a href="https://tailwindcss.com/" target="_blank" >Tailwind CSS</a>
+- <a href="https://tailwindcss.com/" target="_blank" >Tailwind CSS</a>
 
 
 
