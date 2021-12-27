@@ -1,5 +1,6 @@
 # Web Devlopment
 
+# My Repositories :
 
 - <a href="https://theswapnilzambare.github.io/Web_Development/HTML/">HTML (Hypertext Markup Language)</a>
 
@@ -11,7 +12,9 @@
 
 
 
-##############################
+<hr style="border-top: 1px dotted red;">
+
+# HTML Useful Resourses :
 
 # Online Code Editor:
 
@@ -198,7 +201,7 @@
 - <a href="https://www.gifbin.com/" target="_blank" >gifbin.com</a>
 
 
-<hr style="border-top: 3px dashed red;">
+<hr style="border-top: 3px dotted red;">
 
 
 
