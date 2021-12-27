@@ -180,21 +180,31 @@
 
 - <a href="https://www.flaticon.com/" target="_blank" >Flaticon.com</a>
 
+- <a href="https://iconarchive.com/" target="_blank" >iconarchive.com</a>
+
+- <a href="https://www.freepik.com/" target="_blank" >freepik.com</a>
+
+- <a href="https://www.softicons.com/" target="_blank" >softicons.com</a>
+
+- <a href="https://www.softicons.com/" target="_blank" >softicons.com</a>
+
 
 ## GIFs Images:
 
 - <a href="https://giphy.com/" target="_blank" >Giphy.com</a>
 
+- <a href="https://tenor.com/" target="_blank" >tenor.com</a>
+
+- <a href="https://www.gifbin.com/" target="_blank" >gifbin.com</a>
 
 
 <hr style="border-top: 3px dashed red;">
 
 
 
-
 ## - <a href="https://theswapnilzambare.github.io/Web_Development_Example/" target="_blank" >Web Development Example</a>
 
-<hr style="border-top: 3px dotted red;">
+<hr style="border-top: 3px dotted red;width:50%;">
 
 ## <a href="https://theswapnilzambare.github.io/Web_Development/" target="_blank" >https://theswapnilzambare.github.io/Web_Development/</a>
 
