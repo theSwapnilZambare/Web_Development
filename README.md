@@ -30,10 +30,7 @@
 - <a href="https://www.w3schools.com/tryit/" target="_blank" >w3schools.com</a>
 
 
-
-
-############################
-
+<hr>
 
 
 # TEXT Editors & IDE:
@@ -60,7 +57,6 @@
 ## 6. Brackets:
 <a href="https://brackets.io/" target="_blank" >Brackets</a>
 
-##############################
 
 <hr>
 
@@ -81,10 +77,8 @@
 - <a href="http://victordarras.fr/cssgame/" target="_blank" >Roadmap</a>
 
 
-
-##############################
-
 <hr>
+
 
 # Online Code Formatter:
 
@@ -96,6 +90,8 @@
 
 - <a href="https://codebeautify.org/" target="_blank" >Code Beautify</a>
 
+
+<hr>
 
 
 ## Validate a HTML, XHTML, SMIL, MathML, etc document online :
@@ -137,8 +133,7 @@
 - <a href="https://tailwindcss.com/" target="_blank" >Tailwind CSS</a>
 
 
-
-##############################
+<hr>
 
 ## Tutorials & Documentations:
 
@@ -192,9 +187,7 @@
 - <a href="https://giphy.com/" target="_blank" >Giphy.com</a>
 
 
-
-##############################
-
+<hr>
 
 ## <a href="https://theswapnilzambare.github.io/Web_Development_Example/" target="_blank" >Web Development Example</a>
 
