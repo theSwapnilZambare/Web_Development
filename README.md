@@ -104,19 +104,18 @@
 - <a href="https://www.webtoolhub.com/tn561359-html-encrypter.aspx" target="_blank" >Web tool hub HTML Code Encrypter</a>
 
 
-<hr>
+<hr style="border-top: 3px dotted red;">
 
+# HTML Useful Resourses :
 
-# HTML Useful Resourses:
-
-## Online CDN:
+## Online CDN :
 
 - <a href="https://cdnjs.com/" target="_blank" >cdnjs.com | Search Any CDN service </a>
 
 - <a href="https://www.jsdelivr.com/" target="_blank" >jsdelivr.com</a>
 
 
-## Carousel / Slider:
+## Carousel / Slider :
 
 - <a href="https://owlcarousel2.github.io/OwlCarousel2/" target="_blank" >Owl Carousel</a>
 
@@ -126,7 +125,7 @@
 
 
 
-## CSS framework / Library:
+## CSS framework / Library :
 
 - <a href="https://animate.style/" target="_blank" >Animate CSS</a>
 
@@ -135,7 +134,7 @@
 
 <hr>
 
-## Tutorials & Documentations:
+## Tutorials & Documentations :
 
 - <a href="https://lab.github.com/githubtraining/introduction-to-html" target="_blank" >lab.github.com</a>
 
