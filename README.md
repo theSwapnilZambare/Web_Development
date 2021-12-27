@@ -39,21 +39,21 @@
 
 ## TEXT Editors & IDE :
 
-## 1. <a href="https://atom.io/" target="_blank" >Atom.io</a>
+- <a href="https://atom.io/" target="_blank" >1. Atom.io</a>
 
 
-## 2. <a href="https://code.visualstudio.com/" target="_blank">Visualstudio.com</a>
+- <a href="https://code.visualstudio.com/" target="_blank">2. Visualstudio.com</a>
 
 
-## 3. <a href="https://www.sublimetext.com/" target="_blank">Sublimetext.com</a>
+- <a href="https://www.sublimetext.com/" target="_blank">3. Sublimetext.com</a>
 
 
-## 4. <a href="https://www.eclipse.org/ide/" target="_blank">Eclipse IDE</a>
+- <a href="https://www.eclipse.org/ide/" target="_blank">4. Eclipse IDE</a>
 
 
-## 5. <a href="https://notepad-plus-plus.org/downloads/" target="_blank">Notepad++</a>
+- <a href="https://notepad-plus-plus.org/downloads/" target="_blank">5. Notepad++</a>
 
-## 6. <a href="https://brackets.io/" target="_blank">Brackets</a>
+- <a href="https://brackets.io/" target="_blank">6. Brackets</a>
 
 
 <hr>
@@ -102,7 +102,7 @@
 - <a href="https://www.webtoolhub.com/tn561359-html-encrypter.aspx" target="_blank" >Web tool hub HTML Code Encrypter</a>
 
 
-<hr style="border-top: 3px dotted red;">
+<hr>
 
 
 ## Online CDN :
@@ -111,6 +111,7 @@
 
 - <a href="https://www.jsdelivr.com/" target="_blank" >jsdelivr.com</a>
 
+<hr>
 
 ## Carousel / Slider :
 
@@ -120,6 +121,8 @@
 
 - <a href="http://kenwheeler.github.io/slick/" target="_blank">slick</a>
 
+
+<hr>
 
 
 ## CSS framework / Library :
@@ -148,12 +151,14 @@
 - <a href="https://www.learn-html.org/" target="_blank">learn-html.org</a>
 
 
+<hr>
 
 ## Video Tutorials :
 
 - <a href="https://www.codewithharry.com/videos/html-tutorial-for-beginners" target="_blank">Code with Harry</a>
 
 
+<hr>
 
 
 ## Cheat sheet :
@@ -163,12 +168,17 @@
 - <a href="https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf" target="_blank">HTML cheatsheet pdf</a>
 
 
+<hr>
+
 
 ## Complete Character List for UTF-8 :
 
 - <a href="https://www.fileformat.info/info/charset/UTF-8/list.htm" target="_blank">https://www.fileformat.info/info/charset/UTF-8</a>
 
 - <a href="https://unicode-table.com/en/" target="_blank">https://unicode-table.com</a>
+
+
+<hr>
 
 
 ## Vector icons and Social logos :
@@ -186,6 +196,9 @@
 - <a href="https://www.softicons.com/" target="_blank" >softicons.com</a>
 
 
+<hr>
+
+
 ## GIFs Images :
 
 - <a href="https://giphy.com/" target="_blank" >Giphy.com</a>
@@ -195,11 +208,13 @@
 - <a href="https://www.gifbin.com/" target="_blank" >gifbin.com</a>
 
 
+<hr>
+
 <hr style="border-top: 3px dotted red;">
 
 <hr>
 
-## - <a href="https://theswapnilzambare.github.io/Web_Development_Example/" target="_blank">Web Development Example</a>
+## - <a href="https://theswapnilzambare.github.io/Web_Development_Example/" target="_blank">Web Development Example / Projects</a>
 
 <hr style="border-top: 3px dotted red;width:75%;">
 
