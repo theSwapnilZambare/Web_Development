@@ -17,7 +17,7 @@
 
 # HTML Useful Resourses :
 
-# Online Code Editor:
+## Online Code Editor:
 
 - <a href="https://codepen.io/pen/" target="_blank" >Codepen.io</a>
 
@@ -37,7 +37,7 @@
 <hr>
 
 
-# TEXT Editors & IDE:
+## TEXT Editors & IDE:
 
 ## 1. Atom:
 <a href="https://atom.io/" target="_blank" >Atom.io</a>
@@ -64,7 +64,7 @@
 
 <hr>
 
-# Games to learn CSS the fun way
+## Games to learn CSS the fun way
 
 - <a href="https://flexboxfroggy.com/" target="_blank" >Flexbox Froggy</a>
 
@@ -84,7 +84,7 @@
 <hr>
 
 
-# Online Code Formatter:
+## Online Code Formatter:
 
 - <a href="https://goonlinetools.com/" target="_blank" >Go online tools</a>
 
@@ -110,7 +110,6 @@
 
 <hr style="border-top: 3px dotted red;">
 
-# HTML Useful Resourses :
 
 ## Online CDN :
 
@@ -208,7 +207,7 @@
 
 ## - <a href="https://theswapnilzambare.github.io/Web_Development_Example/" target="_blank" >Web Development Example</a>
 
-<hr style="border-top: 3px dotted red;width:50%;">
+<hr style="border-top: 3px dotted red;width:75%;">
 
-## <a href="https://theswapnilzambare.github.io/Web_Development/" target="_blank" >https://theswapnilzambare.github.io/Web_Development/</a>
+## <a href="https://theswapnilzambare.github.io/Web_Development/" target="_blank" >https://theswapnilzambare.github.io/Web_Development</a>
 
