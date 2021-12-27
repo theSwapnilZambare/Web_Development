@@ -1,14 +1,13 @@
 # Web Devlopment
 
 
-<a href="https://theswapnilzambare.github.io/Web_Development/HTML/">HTML (Hypertext Markup Language)</a>
+- <a href="https://theswapnilzambare.github.io/Web_Development/HTML/">HTML (Hypertext Markup Language)</a>
 
-<a href="https://theswapnilzambare.github.io/Web_Development/CSS/">CSS (Cascading Style Sheets)</a>
+- <a href="https://theswapnilzambare.github.io/Web_Development/CSS/">CSS (Cascading Style Sheets)</a>
 
-Bootstrap
+- Bootstrap
 
-JavaScript
-
+- JavaScript
 
 
 
@@ -33,7 +32,7 @@ JavaScript
 
 
 
-##############################
+############################
 
 
 
@@ -98,6 +97,11 @@ JavaScript
 - <a href="https://codebeautify.org/" target="_blank" >Code Beautify</a>
 
 
+
+## Validate a HTML, XHTML, SMIL, MathML, etc document online :
+- <a href="https://validator.w3.org/" target="_blank" >Website HTML Validator w3.org</a>
+
+
 <hr>
 
 ## HTML Code Encrypter:
@@ -134,28 +138,29 @@ JavaScript
 
 
 
+##############################
 
 ## Tutorials & Documentations:
 
-<a href="https://lab.github.com/githubtraining/introduction-to-html" target="_blank" >lab.github.com</a>
+- <a href="https://lab.github.com/githubtraining/introduction-to-html" target="_blank" >lab.github.com</a>
 
-<a href="https://www.w3schools.com/html" target="_blank" >w3schools</a>
+- <a href="https://www.w3schools.com/html" target="_blank" >w3schools</a>
 
-<a href="https://www.tutorialspoint.com/html" target="_blank" >Tutorials point</a>
+- <a href="https://www.tutorialspoint.com/html" target="_blank" >Tutorials point</a>
 
-<a href="https://www.geeksforgeeks.org/html-tutorials/" target="_blank" >Geeks for geeks</a>
+- <a href="https://www.geeksforgeeks.org/html-tutorials/" target="_blank" >Geeks for geeks</a>
 
-<a href="https://devdocs.io/" target="_blank" >Dev docs</a>
+- <a href="https://devdocs.io/" target="_blank" >Dev docs</a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" >developer.mozilla.org</a>
+- <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" >developer.mozilla.org</a>
 
-<a href="https://www.learn-html.org/" target="_blank" >learn-html.org</a>
+- <a href="https://www.learn-html.org/" target="_blank" >learn-html.org</a>
 
 
 
 ## Video Tutorials:
 
-<a href="https://www.codewithharry.com/videos/html-tutorial-for-beginners" target="_blank" >Code with Harry</a>
+- <a href="https://www.codewithharry.com/videos/html-tutorial-for-beginners" target="_blank" >Code with Harry</a>
 
 
 
@@ -188,7 +193,12 @@ JavaScript
 
 
 
-##
+##############################
+
+
+## <a href="https://theswapnilzambare.github.io/Web_Development_Example/" target="_blank" >Web Development Example</a>
+
+<hr>
 
 ## <a href="https://theswapnilzambare.github.io/Web_Development/" target="_blank" >https://theswapnilzambare.github.io/Web_Development/</a>
 
