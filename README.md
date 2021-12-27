@@ -188,11 +188,11 @@
 
 ##############################
 
-<hr style="border-top: 5px dotted red;">
+<hr style="border-top: 3px dotted red;">
 
 ## - <a href="https://theswapnilzambare.github.io/Web_Development_Example/" target="_blank" >Web Development Example</a>
 
-<hr style="border: 10px solid red;">
+<hr style="border: 1px solid red;">
 
 ## <a href="https://theswapnilzambare.github.io/Web_Development/" target="_blank" >https://theswapnilzambare.github.io/Web_Development/</a>
 
