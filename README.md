@@ -188,7 +188,7 @@
 
 <hr style="border-top: 3px solid red;">
 
-##############################
+#############################
 
 <hr style="border-top: 3px dotted red;">
 
