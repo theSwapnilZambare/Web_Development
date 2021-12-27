@@ -187,11 +187,11 @@
 - <a href="https://giphy.com/" target="_blank" >Giphy.com</a>
 
 
-<hr>
+<hr style="border-top: 1px dotted red;">
 
 ## - <a href="https://theswapnilzambare.github.io/Web_Development_Example/" target="_blank" >Web Development Example</a>
 
-<hr>
+<hr style="border: 10px solid green;border-radius: 5px;">
 
 ## <a href="https://theswapnilzambare.github.io/Web_Development/" target="_blank" >https://theswapnilzambare.github.io/Web_Development/</a>
 
