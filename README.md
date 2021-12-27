@@ -12,7 +12,8 @@
 
 
 
-<hr style="border-top: 1px dotted red;">
+
+<hr style="border-top: 2px dotted red;">
 
 # HTML Useful Resourses :
 
