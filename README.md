@@ -186,13 +186,15 @@
 
 - <a href="https://giphy.com/" target="_blank" >Giphy.com</a>
 
+<hr style="border: 3px solid red;">
+
 ##############################
 
 <hr style="border-top: 3px dotted red;">
 
 ## - <a href="https://theswapnilzambare.github.io/Web_Development_Example/" target="_blank" >Web Development Example</a>
 
-<hr style="border: 1px solid red;">
+<hr style="border: 3px dashed red;">
 
 ## <a href="https://theswapnilzambare.github.io/Web_Development/" target="_blank" >https://theswapnilzambare.github.io/Web_Development/</a>
 
