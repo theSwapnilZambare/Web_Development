@@ -45,6 +45,14 @@
 
 <a href="https://theswapnilzambare.github.io/Web_Development/CSS/CSS_Basics/21_Image_Gallery.html" target="_blank">21. Image Gallery</a>
 
+<a href="https://theswapnilzambare.github.io/Web_Development/CSS/CSS_Basics/22_CSS_2D_Tranformation.html" target="_blank">22. CSS 2D Tranformation</a>
+
+<a href="https://theswapnilzambare.github.io/Web_Development/CSS/CSS_Basics/23_CSS_3D_Transformation.html" target="_blank">23. CSS 3D Tranformation</a>
+
+<a href="https://theswapnilzambare.github.io/Web_Development/CSS/CSS_Basics/24_CSS_Transitions.html" target="_blank">24. CSS Transitions</a>
+
+<a href="https://theswapnilzambare.github.io/Web_Development/CSS/CSS_Basics/25_CSS_3_Animations.html" target="_blank">24. CSS3 Animations</a>
+
 
 
 <hr>
