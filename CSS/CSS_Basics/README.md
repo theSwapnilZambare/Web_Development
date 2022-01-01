@@ -51,13 +51,13 @@
 
 <a href="https://theswapnilzambare.github.io/Web_Development/CSS/CSS_Basics/24_CSS_Transitions.html" target="_blank">24. CSS Transitions</a>
 
-<a href="https://theswapnilzambare.github.io/Web_Development/CSS/CSS_Basics/25_CSS_3_Animations.html" target="_blank">24. CSS3 Animations</a>
+<a href="https://theswapnilzambare.github.io/Web_Development/CSS/CSS_Basics/25_CSS_3_Animations.html" target="_blank">25. CSS3 Animations</a>
+
+<a href="https://theswapnilzambare.github.io/Web_Development/CSS/CSS_Basics/26_CSS_Buttons.html" target="_blank">26. CSS Buttons</a>
 
 
 
-<hr>
-
-#################################
+<hr style="border-top: 2px dotted red;">
 
 
 ## <a href="https://theswapnilzambare.github.io/Web_Development">https://theSwapnilZambare.github.io/Web_Development</a> 
