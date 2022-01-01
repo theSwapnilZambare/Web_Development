@@ -23,6 +23,16 @@
 
 <a href="https://theswapnilzambare.github.io/Web_Development/CSS/CSS_Basics/10_CSS_Tables.html" target="_blank">10. CSS Tables</a>
 
+<a href="https://theswapnilzambare.github.io/Web_Development/CSS/CSS_Basics/11_CSS_Positions.html" target="_blank">11. CSS Positions</a>
+
+<a href="https://theswapnilzambare.github.io/Web_Development/CSS/CSS_Basics/12_CSS_BOX_Model.html" target="_blank">12. CSS BOX Model</a>
+
+<a href="https://theswapnilzambare.github.io/Web_Development/CSS/CSS_Basics/13_CSS_Display.html" target="_blank">13. CSS Display</a>
+
+<a href="https://theswapnilzambare.github.io/Web_Development/CSS/CSS_Basics/14_CSS_Float.html" target="_blank">14. CSS Float</a>
+
+<a href="https://theswapnilzambare.github.io/Web_Development/CSS/CSS_Basics/15_CSS_Vertical_Navigation.html" target="_blank">15. CSS Vertical Navigation</a>
+
 
 
 <hr>
