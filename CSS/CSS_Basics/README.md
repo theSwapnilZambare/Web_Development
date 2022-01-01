@@ -33,6 +33,18 @@
 
 <a href="https://theswapnilzambare.github.io/Web_Development/CSS/CSS_Basics/15_CSS_Vertical_Navigation.html" target="_blank">15. CSS Vertical Navigation</a>
 
+<a href="https://theswapnilzambare.github.io/Web_Development/CSS/CSS_Basics/16_CSS_Horizontal_Navigation.html" target="_blank">16. CSS Horizontal Navigation</a>
+
+<a href="https://theswapnilzambare.github.io/Web_Development/CSS/CSS_Basics/17_CSS_DropDown.html" target="_blank">17. CSS DropDown</a>
+
+<a href="https://theswapnilzambare.github.io/Web_Development/CSS/CSS_Basics/18_CSS_Dropdown_Navbar.html" target="_blank">18. CSS Dropdown Navbar</a>
+
+<a href="https://theswapnilzambare.github.io/Web_Development/CSS/CSS_Basics/19_CSS_Tooltip.html" target="_blank">19. CSS Tooltip</a>
+
+<a href="https://theswapnilzambare.github.io/Web_Development/CSS/CSS_Basics/20_CSS_Forms.html" target="_blank">20. CSS Forms</a>
+
+<a href="https://theswapnilzambare.github.io/Web_Development/CSS/CSS_Basics/21_Image_Gallery.html" target="_blank">21. Image Gallery</a>
+
 
 
 <hr>
