@@ -34,6 +34,9 @@
 - <a href="https://playcode.io/" target="_blank" >playcode.io</a>
 
 
+- <a href="https://jsbin.com" target="_blank" >jsbin.com</a>
+
+
 - <a href="https://www.w3schools.com/tryit/" target="_blank" >w3schools.com</a>
 
 
