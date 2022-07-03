@@ -21,7 +21,8 @@ Click it and see what happens.
 
 Solution:
 
-
+```javascript
 function hello() {
-	return "hello world";
+	return "hello world";	
 }
+```
