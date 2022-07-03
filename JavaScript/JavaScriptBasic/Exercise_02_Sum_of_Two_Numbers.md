@@ -6,9 +6,9 @@
 
 Examples:
 
-addition(3, 2) = 5
-addition(-3, -6) = -9
-addition(7, 3) = 10
+1. addition(3, 2) = 5
+2. addition(-3, -6) = -9
+3. addition(7, 3) = 10
 
 Notes:
 * Don't forgetto return the result.
