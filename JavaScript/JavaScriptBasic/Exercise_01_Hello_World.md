@@ -1,7 +1,7 @@
-### Exercise 01 :
+# Exercise 01 :
 
 
-Hello World !
+### Hello World !
 
 
 - This is an introduction to how challenges on Udemy works. In the Code tab above you'll see a starter function that looks like this:
