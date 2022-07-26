@@ -165,6 +165,8 @@
 
 - <a href="https://www.learn-html.org/" target="_blank">learn-html.org</a>
 
+- <a href="https://www.scaler.com/topics/html/" target="_blank">Scaler Topics</a>
+
 
 <hr>
 
